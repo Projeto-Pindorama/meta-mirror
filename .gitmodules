@@ -1,0 +1,3 @@
+[submodule "otto/releases/src"]
+	path = otto/releases/src
+	url = https://github.com/luiztheblues/otto-pkg.git
